@@ -1,0 +1,67 @@
+Task  17.  The  file
+store.csv   in   CSV
+format      contains
+information    about
+the inventory in the
+warehouse    of    a
+company         that
+assembles  and sells
+computers.       The
+warehouse   contains
+processors,
+motherboards,
+memory, video cards,
+disks, and cases. To
+assemble one PC, one
+element of each type
+is   required.   All
+components       are
+compatible with each
+other.  Display  the
+number  of  PCs that
+can   be   assembled
+from  the  available
+components.  Display
+a list of components
+that   need   to  be
+purchased         to
+assemble  a PC using
+all the inventory in
+the  warehouse. Task
+18.     The     file
+store.csv   in   CSV
+format      contains
+information    about
+the inventory in the
+warehouse    of    a
+company         that
+assembles  and sells
+computers.       The
+warehouse   contains
+processors,
+motherboards,
+memory, video cards,
+disks, and cases. To
+assemble one PC, one
+element of each type
+is required. Display
+the  most  expensive
+and    cheapest   PC
+configuration   that
+can   be   assembled
+from  the  available
+components. Task 19.
+Given  a  text  file
+F1.    Rewrite   its
+contents  into  file
+F2, dividing it into
+lines  so  that each
+line   contains   no
+more     than     20
+characters,       if
+possible      adding
+spaces  between  the
+words of the line so
+that   the  text  is
+aligned   along  the
+width  of  the line.
